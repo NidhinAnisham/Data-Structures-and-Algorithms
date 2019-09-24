@@ -1,7 +1,8 @@
 # Data-Structures-and-Algorithms
 Short programs on data structures and algorithms
 
-Using DeleteNode.java
+DeleteNode.java
+Program to delete a Node in a Binary Search Tree by using Predecessor
 
 1. Compile & Run!
 2. For changing the input data, edit variable "keys" in main()
@@ -23,7 +24,8 @@ There are three cases to deleting the node:
 
 _____________________________________________________________________________________________________________________________
 
-Using SelectionSort.java
+SelectionSort.java
+Program to perform selection sort on Linked List by swapping nodes instead of just node data.
 
 1. Compile & Run!
 2. For changing the input data, edit variable "array" in main()
