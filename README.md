@@ -49,3 +49,17 @@ There are four cases:
 
 __________________________________________________________________________________________________________________________________
 
+HeapSort.java
+Performing heap sort on an array
+
+1. Compile & Run!
+2. For changing the input data, edit variable "to_sort" in main()
+3. Input array of 20 elements is dynamically created by using Math.random()
+4. a[0] contains size of unsorted heap
+
+Heap Sort:
+1. Create a max heap from the array by percolating max value up
+2. Loop through the array
+3. Swap a[1] and a[a[0]]
+4. Decrement size of heap i.e. a[0]
+5. Heapify root and subtrees using recursion
