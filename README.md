@@ -63,3 +63,21 @@ Heap Sort:
 3. Swap a[1] and a[a[0]]
 4. Decrement size of heap i.e. a[0]
 5. Heapify root and subtrees using recursion
+
+__________________________________________________________________________________________________________________________________
+
+DijkstrasAlgorithm.java
+Implementing the dijkstras algorithm to find the shortest path in a graph
+
+1. Compile & Run!
+2. For changing the input data, edit variable "weights" in main() and update "vertices"
+3. Adjacency matrix representation is used for graph
+
+__________________________________________________________________________________________________________________________________
+
+TopologicalOrdering.java
+Obtaining the topological ordering of a graph and detecting if there is a cycle in the graph
+
+1. Compile & Run!
+2. For changing the input data, edit variable "weights" in main() and update "vertices"
+3. Adjacency matrix representation is used for graph
