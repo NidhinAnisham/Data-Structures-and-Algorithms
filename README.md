@@ -81,3 +81,8 @@ Obtaining the topological ordering of a graph and detecting if there is a cycle 
 1. Compile & Run!
 2. For changing the input data, edit variable "weights" in main() and update "vertices"
 3. Adjacency matrix representation is used for graph
+
+__________________________________________________________________________________________________________________________________
+
+SpellCheckerHashTable.java
+Check if a word in the 110 word list is spelled correctly using a hash table.
